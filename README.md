@@ -1,2 +1,2 @@
 # iteacheasy.github.io
-HTML
+HTML Static Content
